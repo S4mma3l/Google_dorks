@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Google_dorks/static/css/main.b0807793.css",
+    "main.js": "/Google_dorks/static/js/main.66ed386c.js",
+    "index.html": "/Google_dorks/index.html",
+    "main.b0807793.css.map": "/Google_dorks/static/css/main.b0807793.css.map",
+    "main.66ed386c.js.map": "/Google_dorks/static/js/main.66ed386c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0807793.css",
+    "static/js/main.66ed386c.js"
+  ]
+}
